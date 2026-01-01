@@ -1,4 +1,3 @@
-
 # TryHackMe – First Room Writeup
 
 ## Overview
