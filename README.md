@@ -1,4 +1,5 @@
-# Cyber Security Portfolio – Mahdi Badis
+#Cybersecurity Portfolio – Mahdi Badis
+Python • Web • Offensive Securit
 
 ## Profile
 Cyber Security student with a strong technical foundation in programming and web technologies, currently focusing on Penetration Testing and offensive security.  
